@@ -1,2 +1,2 @@
-# all-countries-with-Arabic-names-in-JSON
+# JSON Arabic countries list
 List of all countries with Arabic names in JSON file
